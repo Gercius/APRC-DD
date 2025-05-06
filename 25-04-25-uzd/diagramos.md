@@ -98,7 +98,7 @@ classDiagram
 
     Studentas->>Sistema: Prisijungia
     Studentas->>Sistema: Pasirenka kursą
-    Sistema->>Kursas: Registruojasi studentą
+    Sistema->>Kursas: Registruoja studentą
     Studentas->>Sistema: Pasirenka viktoriną
     Sistema->>Viktorina: Pradeda viktoriną
     Studentas->>Viktorina: Atsako į klausimus
